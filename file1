@@ -1,3 +1,13 @@
 Какая-то строка
 Stroka 2
 s
+commands
+cd .. -
+git status -
+git add . -
+git commit -
+git remote add origin ..link.. -
+git remote -v -
+git branch -
+git push origin main -
+git clone ..link.. Name -
